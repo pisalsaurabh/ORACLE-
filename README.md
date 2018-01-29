@@ -1,6 +1,6 @@
 # MANI’S MAGAZINE 
 
-# Review of Current Project Status
+### Review of Current Project Status
 
 ---
 
