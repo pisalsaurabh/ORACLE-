@@ -51,4 +51,4 @@ The database project for the Magazine store has been complete tested and verifie
 
 # Project Document
 
-![Mani's Magazine](IMAGES/Deliverable1.JPG "COPA endpoint")
+![Mani's Magazine](https://github.com/pisalsaurabh/ORACLE-/tree/master/Report)
