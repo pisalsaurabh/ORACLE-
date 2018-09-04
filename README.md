@@ -61,4 +61,4 @@ The database project for the Magazine store has been complete tested and verifie
 
 # Conceptual Model
 
-![Conceptual_Model](https://github.com/pisalsaurabh/ORACLE-/blob/master/CONCEPTUAL_MODEL_PISAL_SAURABH)
+![Conceptual_Model](https://github.com/pisalsaurabh/ORACLE-/blob/master/CONCEPTUAL_MODEL_PISAL_SAURABH.JPG)
