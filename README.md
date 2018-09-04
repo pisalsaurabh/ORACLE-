@@ -54,6 +54,11 @@ The database project for the Magazine store has been complete tested and verifie
 ![Mani's Magazine](https://github.com/pisalsaurabh/ORACLE-/tree/master/Report)
 
 
+# Logical Model
+
+![Logica_Model](https://github.com/pisalsaurabh/ORACLE-/blob/master/Midterm_project_PISAL_SAURABH.jpg)
+
+
 # Conceptual Model
 
-![Conceptual_Model](https://github.com/pisalsaurabh/ORACLE-/blob/master/Midterm_project_PISAL_SAURABH.jpg)
+![Conceptual_Model](https://github.com/pisalsaurabh/ORACLE-/blob/master/CONCEPTUAL_MODEL_PISAL_SAURABH)
